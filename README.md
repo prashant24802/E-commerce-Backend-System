@@ -157,9 +157,9 @@ src/
 │   │           ├── controller/       # REST Controllers
 │   │           ├── service/          # Business Logic
 │   │           ├── repository/       # Database Repositories
-│   │           ├── model/            # Entity Classes
+│   │       
 │   │           ├── security/         # Spring Security Configuration
-│   │           └── EcommerceApplication.java
+│   │           
 │   └── resources/
 │       ├── application.properties    # Configuration
 │       └── data.sql                 # Initial Data (optional)
